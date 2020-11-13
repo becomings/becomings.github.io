@@ -1,66 +1,4 @@
-<div align="center">
-  <br>
-  <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
-  <br>  
-  <p align="center">
-    <i>Support my work via <a href="https://paypal.me/AmitMerchant">Paypal</a></i>
-  </p>
-</div>
-
----
-
-Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
-
-> [Theme demo](https://reverie-jekyll.netlify.app/)
-
-This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https://pages.github.com) without even setting up a local environment.
-
-![](/images/reverie-demo.png)
-
-|  Responsiveness            |  Search | Categories |
-|---------------------|----------------------|----------------------|
-|![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) |
-
-## Features overview
-
-- Clean and minimal design
-- Single column post layout
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies come built-in
-- Markdown blogging
-- Supports [Pullquotes](https://reverie-jekyll.netlify.app/pullquotes/)
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Social media icons
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Blog with pagination
-- Categorize posts out-of-the box
-- RSS Feed
-- Built-in sitemap
-
-> <p><i>Like this theme?</i> If so, consider donating a small amount that will help my maintaining this project further.<p>
-> You can support me via <a href="https://paypal.me/AmitMerchant">Paypal</a>.
-
-## Using Reverie on GitHub Pages
-
-### 1. Fork Reverie to your User Repository
-
-Fork this repository, then rename the repository to `yourgithubusername.github.io`.
-
-Alternatively, you can click the [`Use this template`](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
-
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2).
-
-### 2. Customize and view your site
-
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
-
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with Jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
+Modified Readme for Notes-to-Self
 
 ### 3. Publish your first blog post
 
@@ -102,14 +40,6 @@ Reverie comes with a [RSS feed](https://en.wikipedia.org/wiki/RSS) in-built. The
 
 The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://reverie-jekyll.netlify.app/sitemap).
 
-## Emailware
-Reverie is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this theme or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
-
 ## The name?
 
 reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><sup>/ˈrɛv(ə)ri/</sup> 
-
-
-## License
-
-MIT
